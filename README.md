@@ -1,6 +1,6 @@
 # delta-stack
 
-Personal agent skills for Claude Code, Codex and Cursor.
+Personal skills for coding agents, in the Agent Skills format.
 
 A skill here holds only the delta: what the model would not do on its own.
 
@@ -16,5 +16,5 @@ A skill here holds only the delta: what the model would not do on its own.
 ## Install
 
 ```
-npx skills add Kailash-Sankar/delta-stack --skill <name> --agent claude-code codex cursor --global --yes
+npx skills add Kailash-Sankar/delta-stack --skill <name> --agent <agent...> --global --yes
 ```
