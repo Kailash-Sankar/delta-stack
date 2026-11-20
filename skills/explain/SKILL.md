@@ -8,7 +8,7 @@ disable-model-invocation: true
 
 "How" is answered from the code. "Why" is answered from the record. Many questions need both.
 
-Write plainly. When the answer is a flow, a sequence, or a structure, draw it: ASCII in a terminal, Mermaid where it renders. Make an HTML page only when the explanation has many parts or will be shared.
+Write plainly. When the answer is a flow, a sequence, or a structure, draw it: ASCII in a terminal, Mermaid where it renders. Make an HTML page only when the explanation has many parts or will be shared; keep it to about two printed pages, diagrams first, and cut detail before cutting a diagram.
 
 ## How
 
