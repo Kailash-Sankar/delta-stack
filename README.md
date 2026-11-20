@@ -16,5 +16,5 @@ A skill here holds only the delta: what the model would not do on its own.
 ## Install
 
 ```
-npx skills add <owner>/delta-stack --skill <name> --agent claude-code codex cursor --global --yes
+npx skills add Kailash-Sankar/delta-stack --skill <name> --agent claude-code codex cursor --global --yes
 ```
