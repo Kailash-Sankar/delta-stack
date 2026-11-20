@@ -1,10 +1,10 @@
 ---
-name: align
+name: brainstorm
 description: Brainstorm a task with the user until you agree on a plan, before any work starts. Use for "let's brainstorm", "align first", "get on the same page".
 disable-model-invocation: true
 ---
 
-# Align
+# Brainstorm
 
 No implementation until the user approves the plan. Reading code, querying data, and small throwaway experiments are fine.
 
